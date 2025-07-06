@@ -1,0 +1,11 @@
+name: ExplOut
+version : 0.0.1
+author : Hexzey
+api-version: 1.20
+main: fr.hexzey.explout.Main
+commands :
+  explout:
+    description: Admin command.
+    permission: explout.maincmd
+  spec:
+    description: Spectator mode.
